@@ -206,10 +206,10 @@ h1 {
 }
 
 .logo{
-  border-radius: 50%;
+  	border-radius: 50%;
 }
 
 .muistiinpanot {
-  max-width: 100%;
-  height: auto;
+  	max-width: 100%;
+  	height: auto;
 }
