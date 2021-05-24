@@ -177,11 +177,12 @@ h1 {
 
 .lomake {
 	margin: 20px;
-	margin-left: 50px;
+	margin-left: 400px;
 }
 
 .nappi {
 	width: 75px;
+	margin-bottom:40px;
 }
 
 @media only screen and (max-width: 600px){
@@ -223,3 +224,6 @@ h1, h2, h3, h4, h5, a, label {
 	font-family: 'Roboto', sans-serif;
 }
 
+@media only screen and (max-width: 1000px){
+	.lomake {margin-left:0px;}
+}
