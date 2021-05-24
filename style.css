@@ -222,3 +222,7 @@ h1, h2, h3, h4, h5, a, label {
 @media only screen and (max-width: 1000px){
 	.lomake {margin-left:0px;}
 }
+
+@media only screen and (max-width: 460px){
+	.kortit {margin-left:0px;}
+}
