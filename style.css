@@ -234,3 +234,7 @@ h1, h2, h3, h4, h5, a, label {
 .kuvalaatikko {
 	padding: 0px;
 }
+
+.kaupparivi {
+	margin-right:0px;
+}
